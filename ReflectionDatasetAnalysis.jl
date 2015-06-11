@@ -133,7 +133,7 @@ function generateRandomTransformParams(allMoleculesInUnitCell::MoleculeUnitCell,
     numOfMolsToTransform = rand(1:numberOfMolsInUnitCell)
     molsToTransform = unique(vec(rand(1:numberOfMolsInUnitCell, numOfMolsToTransform, 1)))
 
-    rotationAngle = float(rand(0:400)/1000)
+    rotationAngle = float(rand(0:400)/10000)
     numMissingAtoms = allMoleculesInUnitCell.moleculeSequence[1].atomSequence[end].serialNum - numberOfAtomsInMolecule
     atom = allMoleculesInUnitCell.moleculeSequence[1].atomSequence[rand(1:numberOfAtomsInMolecule)]
     serialNum = atom.serialNum - numMissingAtoms ≤ 0 ? atom.serialNum : atom.serialNum - numMissingAtoms

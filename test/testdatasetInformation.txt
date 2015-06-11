@@ -3,3 +3,928 @@
 #############################################################
 
 
+--------------------------------------------------
+**************** Dataset Number 1 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - no transformation.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 57869.728   
+Sum of all reflection squared amplitudes          : 5552579.695 
+Sum of all reflection phases (mod 360)            : 0.000       
+Average of all reflection squared amplitudes      : 5789.968    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    9265.712 |    3051.471 |   40524.635 |     437.361 |
+| 20.820 - 15.277        |             162 |    6359.573 |    3184.314 |    8729.286 |     137.262 |
+| 15.277 - 13.360        |             132 |    3884.623 |    1849.924 |    6724.794 |     173.113 |
+| 13.360 - 12.317        |             126 |    5871.806 |    3806.150 |    8804.413 |     149.944 |
+| 12.317 - 11.486        |             120 |    4618.094 |    3109.342 |    5880.320 |     127.332 |
+| 11.486 - 10.601        |             182 |    5422.788 |    2211.566 |    8081.537 |     149.029 |
+
+
+--------------------------------------------------
+**************** Dataset Number 2 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '1' by 0.1 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 60424.700   
+Sum of all reflection squared amplitudes          : 5639912.882 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5881.035    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    9442.811 |    3504.250 |   40413.407 |     427.981 |
+| 20.820 - 15.277        |             162 |    6817.529 |    4195.163 |    9190.815 |     134.812 |
+| 15.277 - 13.360        |             132 |    3620.847 |    1968.770 |    5785.446 |     159.782 |
+| 13.360 - 12.317        |             126 |    5997.782 |    3351.261 |    7411.982 |     123.579 |
+| 12.317 - 11.486        |             120 |    5810.256 |    3368.945 |    6746.072 |     116.106 |
+| 11.486 - 10.601        |             182 |    4403.186 |    2384.813 |    5379.866 |     122.181 |
+
+
+--------------------------------------------------
+**************** Dataset Number 3 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '3' by 0.4 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 60280.731   
+Sum of all reflection squared amplitudes          : 5388487.943 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5618.861    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7507.977 |    2515.034 |   40150.023 |     534.765 |
+| 20.820 - 15.277        |             162 |    5962.765 |    3840.389 |    6863.419 |     115.105 |
+| 15.277 - 13.360        |             132 |    4086.168 |    2974.238 |    4935.014 |     120.774 |
+| 13.360 - 12.317        |             126 |    6248.042 |    3858.702 |    7140.413 |     114.282 |
+| 12.317 - 11.486        |             120 |    6045.151 |    3658.515 |    6854.880 |     113.395 |
+| 11.486 - 10.601        |             182 |    4994.288 |    3455.452 |    4693.431 |      93.976 |
+
+
+--------------------------------------------------
+**************** Dataset Number 4 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '1' by 0.0 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 61514.287   
+Sum of all reflection squared amplitudes          : 5493397.209 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5728.256    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7743.482 |    2720.986 |   40155.419 |     518.571 |
+| 20.820 - 15.277        |             162 |    5972.607 |    4032.371 |    6562.875 |     109.883 |
+| 15.277 - 13.360        |             132 |    4335.272 |    2997.585 |    4686.214 |     108.095 |
+| 13.360 - 12.317        |             126 |    6304.572 |    4182.631 |    6447.997 |     102.275 |
+| 12.317 - 11.486        |             120 |    6343.993 |    3750.187 |    6470.189 |     101.989 |
+| 11.486 - 10.601        |             182 |    5129.782 |    3498.634 |    4950.955 |      96.514 |
+
+
+--------------------------------------------------
+**************** Dataset Number 5 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of atom: 'C' (atom number 3) by (x, y, z) = (0.03, 0.03, 0.02) -
+a total of 0.05 Angstroms from original position (x, y, z) = (-14.96, -45.25, -30.86) in molecule numbers 1 and 3.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 61483.892   
+Sum of all reflection squared amplitudes          : 5445266.746 
+Sum of all reflection phases (mod 360)            : 0.000       
+Average of all reflection squared amplitudes      : 5678.068    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7750.396 |    2719.836 |   40151.023 |     518.051 |
+| 20.820 - 15.277        |             162 |    5863.291 |    3849.612 |    6335.126 |     108.047 |
+| 15.277 - 13.360        |             132 |    4305.336 |    3175.596 |    4434.918 |     103.010 |
+| 13.360 - 12.317        |             126 |    6204.484 |    3814.208 |    6393.920 |     103.053 |
+| 12.317 - 11.486        |             120 |    6385.984 |    3940.711 |    6360.554 |      99.602 |
+| 11.486 - 10.601        |             182 |    5107.529 |    3625.504 |    4818.171 |      94.335 |
+
+
+--------------------------------------------------
+**************** Dataset Number 6 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '3,1' by 0.0 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 61539.073   
+Sum of all reflection squared amplitudes          : 5523628.504 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5759.779    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7964.649 |    3053.394 |   40193.357 |     504.647 |
+| 20.820 - 15.277        |             162 |    5861.559 |    3999.508 |    6140.941 |     104.766 |
+| 15.277 - 13.360        |             132 |    4289.930 |    3324.997 |    4084.216 |      95.205 |
+| 13.360 - 12.317        |             126 |    5728.569 |    3333.599 |    5989.325 |     104.552 |
+| 12.317 - 11.486        |             120 |    6742.384 |    4326.146 |    6885.171 |     102.118 |
+| 11.486 - 10.601        |             182 |    5563.901 |    3845.198 |    5865.676 |     105.424 |
+
+
+--------------------------------------------------
+**************** Dataset Number 7 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of atom: 'CB' (atom number 9) by (x, y, z) = (0.02, 0.02, 0.03) -
+a total of 0.04 Angstroms from original position (x, y, z) = (-16.92, -42.96, -28.66) in molecule numbers 2.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 61388.515   
+Sum of all reflection squared amplitudes          : 5506144.418 
+Sum of all reflection phases (mod 360)            : 0.000       
+Average of all reflection squared amplitudes      : 5741.548    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7978.741 |    2946.560 |   40195.841 |     503.787 |
+| 20.820 - 15.277        |             162 |    5799.251 |    3988.994 |    6043.477 |     104.211 |
+| 15.277 - 13.360        |             132 |    4302.188 |    3566.520 |    4106.183 |      95.444 |
+| 13.360 - 12.317        |             126 |    5736.899 |    3391.298 |    6082.678 |     106.027 |
+| 12.317 - 11.486        |             120 |    6651.628 |    4146.449 |    6970.163 |     104.789 |
+| 11.486 - 10.601        |             182 |    5528.410 |    3885.358 |    5684.021 |     102.815 |
+
+
+--------------------------------------------------
+**************** Dataset Number 8 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of atom: 'O' (atom number 8) by (x, y, z) = (0.01, 0.03, 0.03) -
+a total of 0.04 Angstroms from original position (x, y, z) = (-18.78, -44.31, -30.92) in molecule numbers 1.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 61775.680   
+Sum of all reflection squared amplitudes          : 5556004.844 
+Sum of all reflection phases (mod 360)            : 0.000       
+Average of all reflection squared amplitudes      : 5793.540    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    8012.048 |    2938.463 |   40206.145 |     501.821 |
+| 20.820 - 15.277        |             162 |    5872.914 |    4045.010 |    6071.192 |     103.376 |
+| 15.277 - 13.360        |             132 |    4311.597 |    3040.574 |    4173.761 |      96.803 |
+| 13.360 - 12.317        |             126 |    5759.293 |    3328.830 |    6244.882 |     108.431 |
+| 12.317 - 11.486        |             120 |    6574.481 |    4518.655 |    6600.475 |     100.395 |
+| 11.486 - 10.601        |             182 |    5618.040 |    3513.949 |    5581.694 |      99.353 |
+
+
+--------------------------------------------------
+**************** Dataset Number 9 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of atom: 'C' (atom number 3) by (x, y, z) = (0.02, 0.03, 0.03) -
+a total of 0.05 Angstroms from original position (x, y, z) = (-14.91, -45.24, -30.82) in molecule numbers 3.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 61888.499   
+Sum of all reflection squared amplitudes          : 5556991.610 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5794.569    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    8013.653 |    3098.820 |   40201.814 |     501.667 |
+| 20.820 - 15.277        |             162 |    5840.492 |    4047.714 |    5911.453 |     101.215 |
+| 15.277 - 13.360        |             132 |    4279.638 |    3117.371 |    4052.284 |      94.688 |
+| 13.360 - 12.317        |             126 |    5760.629 |    3348.907 |    6459.104 |     112.125 |
+| 12.317 - 11.486        |             120 |    6608.080 |    4741.917 |    6551.692 |      99.147 |
+| 11.486 - 10.601        |             182 |    5677.263 |    3686.684 |    5557.018 |      97.882 |
+
+
+--------------------------------------------------
+**************** Dataset Number 10 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of molecules: '1' by (x, y, z) = (0.04, 0.03, 0.02) -
+a total of 0.05 Angstroms from their original positions.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 62557.234   
+Sum of all reflection squared amplitudes          : 5610233.230 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5850.087    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7724.487 |    2547.000 |   40211.749 |     520.575 |
+| 20.820 - 15.277        |             162 |    6081.966 |    4278.242 |    5713.533 |      93.942 |
+| 15.277 - 13.360        |             132 |    4895.028 |    2689.268 |    6064.649 |     123.894 |
+| 13.360 - 12.317        |             126 |    6002.554 |    3837.627 |    6046.835 |     100.738 |
+| 12.317 - 11.486        |             120 |    5496.315 |    3649.792 |    4924.219 |      89.591 |
+| 11.486 - 10.601        |             182 |    5790.126 |    4242.068 |    5074.371 |      87.638 |
+
+
+--------------------------------------------------
+**************** Dataset Number 11 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of atom: 'N' (atom number 5) by (x, y, z) = (0.02, 0.02, 0.04) -
+a total of 0.05 Angstroms from original position (x, y, z) = (-15.37, -44.54, -29.79) in molecule numbers 1.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 62677.475   
+Sum of all reflection squared amplitudes          : 5651189.970 
+Sum of all reflection phases (mod 360)            : 0.000       
+Average of all reflection squared amplitudes      : 5892.795    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7704.645 |    2629.522 |   40217.322 |     521.988 |
+| 20.820 - 15.277        |             162 |    6105.714 |    4411.956 |    5781.629 |      94.692 |
+| 15.277 - 13.360        |             132 |    4977.839 |    2469.188 |    6343.858 |     127.442 |
+| 13.360 - 12.317        |             126 |    6062.138 |    3634.628 |    6195.431 |     102.199 |
+| 12.317 - 11.486        |             120 |    5530.396 |    3496.182 |    4905.819 |      88.706 |
+| 11.486 - 10.601        |             182 |    5858.511 |    4376.131 |    5232.609 |      89.316 |
+
+
+--------------------------------------------------
+**************** Dataset Number 12 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '2' by 0.0 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 62131.915   
+Sum of all reflection squared amplitudes          : 5536744.321 
+Sum of all reflection phases (mod 360)            : 0.000       
+Average of all reflection squared amplitudes      : 5773.456    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7816.085 |    2649.254 |   40220.559 |     514.587 |
+| 20.820 - 15.277        |             162 |    5756.415 |    3419.160 |    5691.079 |      98.865 |
+| 15.277 - 13.360        |             132 |    5340.138 |    3755.354 |    6929.463 |     129.762 |
+| 13.360 - 12.317        |             126 |    5760.147 |    3885.927 |    6408.801 |     111.261 |
+| 12.317 - 11.486        |             120 |    5740.313 |    4612.273 |    4441.771 |      77.379 |
+| 11.486 - 10.601        |             182 |    5149.475 |    3898.105 |    4615.526 |      89.631 |
+
+
+--------------------------------------------------
+**************** Dataset Number 13 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of molecules: '2,3 and 1' by (x, y, z) = (0.03, 0.03, 0.02) -
+a total of 0.05 Angstroms from their original positions.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 62131.914   
+Sum of all reflection squared amplitudes          : 5536744.056 
+Sum of all reflection phases (mod 360)            : 0.000       
+Average of all reflection squared amplitudes      : 5773.456    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7816.084 |    2649.254 |   40220.559 |     514.587 |
+| 20.820 - 15.277        |             162 |    5756.415 |    3419.161 |    5691.078 |      98.865 |
+| 15.277 - 13.360        |             132 |    5340.137 |    3755.353 |    6929.462 |     129.762 |
+| 13.360 - 12.317        |             126 |    5760.147 |    3885.930 |    6408.801 |     111.261 |
+| 12.317 - 11.486        |             120 |    5740.314 |    4612.272 |    4441.771 |      77.379 |
+| 11.486 - 10.601        |             182 |    5149.474 |    3898.103 |    4615.525 |      89.631 |
+
+
+--------------------------------------------------
+**************** Dataset Number 14 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '2' by 0.2 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 60712.289   
+Sum of all reflection squared amplitudes          : 5443783.057 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5676.520    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7544.979 |    1979.085 |   40167.470 |     532.374 |
+| 20.820 - 15.277        |             162 |    4367.926 |    3366.010 |    3783.832 |      86.628 |
+| 15.277 - 13.360        |             132 |    5560.259 |    3713.608 |    6073.384 |     109.228 |
+| 13.360 - 12.317        |             126 |    5923.242 |    3873.430 |    6663.835 |     112.503 |
+| 12.317 - 11.486        |             120 |    6196.720 |    4612.741 |    6851.327 |     110.564 |
+| 11.486 - 10.601        |             182 |    5545.077 |    3657.059 |    6197.804 |     111.771 |
+
+
+--------------------------------------------------
+**************** Dataset Number 15 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '2,3' by 0.1 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 60402.640   
+Sum of all reflection squared amplitudes          : 5376860.142 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5606.736    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7223.301 |    2458.326 |   40113.141 |     555.330 |
+| 20.820 - 15.277        |             162 |    5014.401 |    2707.248 |    5434.297 |     108.374 |
+| 15.277 - 13.360        |             132 |    4855.359 |    2740.181 |    5776.652 |     118.975 |
+| 13.360 - 12.317        |             126 |    5667.513 |    3563.902 |    6435.463 |     113.550 |
+| 12.317 - 11.486        |             120 |    7161.418 |    4802.254 |    6819.568 |      95.227 |
+| 11.486 - 10.601        |             182 |    5285.836 |    3925.822 |    5543.787 |     104.880 |
+
+
+--------------------------------------------------
+**************** Dataset Number 16 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of atom: 'O' (atom number 4) by (x, y, z) = (0.03, 0.03, 0.02) -
+a total of 0.05 Angstroms from original position (x, y, z) = (-15.51, -45.41, -31.84) in molecule numbers 1 and 3.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 60265.832   
+Sum of all reflection squared amplitudes          : 5359307.795 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5588.434    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7326.574 |    2347.210 |   40106.835 |     547.416 |
+| 20.820 - 15.277        |             162 |    5107.976 |    2746.857 |    5731.195 |     112.201 |
+| 15.277 - 13.360        |             132 |    4860.482 |    2361.852 |    5933.209 |     122.070 |
+| 13.360 - 12.317        |             126 |    5723.600 |    3380.536 |    6464.652 |     112.947 |
+| 12.317 - 11.486        |             120 |    6899.980 |    5170.146 |    6609.025 |      95.783 |
+| 11.486 - 10.601        |             182 |    5128.765 |    3727.430 |    5412.887 |     105.540 |
+
+
+--------------------------------------------------
+**************** Dataset Number 17 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of atom: 'O' (atom number 4) by (x, y, z) = (0.01, 0.03, 0.03) -
+a total of 0.05 Angstroms from original position (x, y, z) = (-15.48, -45.38, -31.82) in molecule numbers 2 and 3.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 60645.171   
+Sum of all reflection squared amplitudes          : 5446692.073 
+Sum of all reflection phases (mod 360)            : 0.001       
+Average of all reflection squared amplitudes      : 5679.554    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7400.002 |    2749.938 |   40103.512 |     541.939 |
+| 20.820 - 15.277        |             162 |    5330.679 |    3073.966 |    6012.221 |     112.785 |
+| 15.277 - 13.360        |             132 |    4824.621 |    2246.886 |    5991.177 |     124.179 |
+| 13.360 - 12.317        |             126 |    5806.893 |    3162.220 |    6593.548 |     113.547 |
+| 12.317 - 11.486        |             120 |    6999.877 |    5517.478 |    6800.766 |      97.156 |
+| 11.486 - 10.601        |             182 |    5103.183 |    3621.468 |    5120.487 |     100.339 |
+
+
+--------------------------------------------------
+**************** Dataset Number 18 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of molecules: '1' by (x, y, z) = (0.00, 0.03, 0.04) -
+a total of 0.05 Angstroms from their original positions.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 61384.426   
+Sum of all reflection squared amplitudes          : 5513817.539 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5749.549    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7652.324 |    2941.560 |   40076.730 |     523.720 |
+| 20.820 - 15.277        |             162 |    5944.275 |    3259.523 |    7155.458 |     120.376 |
+| 15.277 - 13.360        |             132 |    5449.514 |    3447.299 |    6098.224 |     111.904 |
+| 13.360 - 12.317        |             126 |    5315.495 |    3225.244 |    5368.472 |     100.997 |
+| 12.317 - 11.486        |             120 |    5844.592 |    3794.350 |    5680.584 |      97.194 |
+| 11.486 - 10.601        |             182 |    4982.183 |    3208.319 |    5104.699 |     102.459 |
+
+
+--------------------------------------------------
+**************** Dataset Number 19 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of atom: 'CA' (atom number 6) by (x, y, z) = (0.03, 0.02, 0.03) -
+a total of 0.05 Angstroms from original position (x, y, z) = (-16.59, -43.72, -29.83) in molecule numbers 2.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 61179.766   
+Sum of all reflection squared amplitudes          : 5489269.418 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5723.951    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7618.726 |    2663.540 |   40080.387 |     526.077 |
+| 20.820 - 15.277        |             162 |    5964.453 |    3204.801 |    7200.515 |     120.724 |
+| 15.277 - 13.360        |             132 |    5393.119 |    3412.929 |    5959.295 |     110.498 |
+| 13.360 - 12.317        |             126 |    5336.782 |    3334.497 |    5495.883 |     102.981 |
+| 12.317 - 11.486        |             120 |    5800.905 |    3418.526 |    5561.047 |      95.865 |
+| 11.486 - 10.601        |             182 |    4910.389 |    3360.975 |    4955.304 |     100.915 |
+
+
+--------------------------------------------------
+**************** Dataset Number 20 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '2' by 0.1 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 61123.633   
+Sum of all reflection squared amplitudes          : 5484777.221 
+Sum of all reflection phases (mod 360)            : 0.000       
+Average of all reflection squared amplitudes      : 5719.267    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7571.244 |    2728.527 |   40135.078 |     530.099 |
+| 20.820 - 15.277        |             162 |    6291.851 |    3792.583 |    6151.187 |      97.764 |
+| 15.277 - 13.360        |             132 |    5651.830 |    2661.559 |    7701.516 |     136.266 |
+| 13.360 - 12.317        |             126 |    4734.070 |    3451.326 |    4262.867 |      90.047 |
+| 12.317 - 11.486        |             120 |    5055.604 |    3408.638 |    5085.508 |     100.592 |
+| 11.486 - 10.601        |             182 |    4956.089 |    3275.583 |    5770.236 |     116.427 |
+
+
+--------------------------------------------------
+**************** Dataset Number 21 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of atom: 'N' (atom number 1) by (x, y, z) = (0.00, 0.01, 0.05) -
+a total of 0.05 Angstroms from original position (x, y, z) = (-13.29, -46.85, -31.57) in molecule numbers 2 and 3.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 61323.009   
+Sum of all reflection squared amplitudes          : 5520102.815 
+Sum of all reflection phases (mod 360)            : 0.000       
+Average of all reflection squared amplitudes      : 5756.103    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7603.575 |    2686.048 |   40130.703 |     527.787 |
+| 20.820 - 15.277        |             162 |    6345.270 |    3716.244 |    6260.419 |      98.663 |
+| 15.277 - 13.360        |             132 |    5784.273 |    2699.898 |    7789.920 |     134.674 |
+| 13.360 - 12.317        |             126 |    4681.622 |    3390.328 |    4320.839 |      92.294 |
+| 12.317 - 11.486        |             120 |    5171.480 |    3522.706 |    5031.792 |      97.299 |
+| 11.486 - 10.601        |             182 |    4940.430 |    3339.249 |    5630.007 |     113.958 |
+
+
+--------------------------------------------------
+**************** Dataset Number 22 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '1' by 0.3 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 63845.779   
+Sum of all reflection squared amplitudes          : 5840192.702 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 6089.878    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7956.549 |    2720.469 |   40169.825 |     504.865 |
+| 20.820 - 15.277        |             162 |    5978.480 |    4675.933 |    5317.133 |      88.938 |
+| 15.277 - 13.360        |             132 |    6198.442 |    3602.577 |    8545.124 |     137.859 |
+| 13.360 - 12.317        |             126 |    5979.123 |    4444.366 |    5221.351 |      87.326 |
+| 12.317 - 11.486        |             120 |    6108.495 |    4348.939 |    5451.107 |      89.238 |
+| 11.486 - 10.601        |             182 |    5377.301 |    3788.240 |    5896.503 |     109.655 |
+
+
+--------------------------------------------------
+**************** Dataset Number 23 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of atom: 'C' (atom number 7) by (x, y, z) = (0.02, 0.02, 0.04) -
+a total of 0.04 Angstroms from original position (x, y, z) = (-17.67, -44.76, -30.01) in molecule numbers 3,2 and 1.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 63628.672   
+Sum of all reflection squared amplitudes          : 5814342.132 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 6062.922    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7891.051 |    2834.422 |   40159.237 |     508.921 |
+| 20.820 - 15.277        |             162 |    6102.323 |    4658.351 |    5562.397 |      91.152 |
+| 15.277 - 13.360        |             132 |    6158.512 |    3340.447 |    8438.999 |     137.030 |
+| 13.360 - 12.317        |             126 |    5949.139 |    4273.820 |    5395.512 |      90.694 |
+| 12.317 - 11.486        |             120 |    5988.222 |    4100.655 |    5457.667 |      91.140 |
+| 11.486 - 10.601        |             182 |    5326.911 |    3743.884 |    5709.683 |     107.186 |
+
+
+--------------------------------------------------
+**************** Dataset Number 24 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '2,3' by 0.2 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 63208.746   
+Sum of all reflection squared amplitudes          : 5839102.093 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 6088.740    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7616.036 |    2122.859 |   40177.437 |     527.537 |
+| 20.820 - 15.277        |             162 |    6598.986 |    3923.194 |    6751.259 |     102.308 |
+| 15.277 - 13.360        |             132 |    5209.072 |    3797.398 |    4787.536 |      91.908 |
+| 13.360 - 12.317        |             126 |    5118.253 |    3489.278 |    5203.977 |     101.675 |
+| 12.317 - 11.486        |             120 |    6462.597 |    3817.982 |    8017.087 |     124.054 |
+| 11.486 - 10.601        |             182 |    5415.405 |    3967.193 |    4858.391 |      89.714 |
+
+
+--------------------------------------------------
+**************** Dataset Number 25 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of molecules: '2 and 1' by (x, y, z) = (0.04, 0.02, 0.02) -
+a total of 0.05 Angstroms from their original positions.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 62641.382   
+Sum of all reflection squared amplitudes          : 5704295.150 
+Sum of all reflection phases (mod 360)            : 0.000       
+Average of all reflection squared amplitudes      : 5948.170    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7538.550 |    2076.451 |   40146.617 |     532.551 |
+| 20.820 - 15.277        |             162 |    5999.167 |    3581.172 |    6272.006 |     104.548 |
+| 15.277 - 13.360        |             132 |    5210.808 |    3330.146 |    5466.867 |     104.914 |
+| 13.360 - 12.317        |             126 |    5534.313 |    3355.749 |    5698.376 |     102.964 |
+| 12.317 - 11.486        |             120 |    6420.622 |    4087.650 |    6852.326 |     106.724 |
+| 11.486 - 10.601        |             182 |    5359.726 |    3927.255 |    4794.416 |      89.453 |
+
+
+--------------------------------------------------
+**************** Dataset Number 26 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '2,3' by 0.3 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 60935.558   
+Sum of all reflection squared amplitudes          : 5379787.399 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5609.789    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    8244.037 |    2862.040 |   40254.416 |     488.285 |
+| 20.820 - 15.277        |             162 |    5710.168 |    3564.374 |    6726.068 |     117.791 |
+| 15.277 - 13.360        |             132 |    5246.964 |    3873.459 |    4447.940 |      84.772 |
+| 13.360 - 12.317        |             126 |    5792.484 |    3398.751 |    5978.679 |     103.214 |
+| 12.317 - 11.486        |             120 |    5366.027 |    3492.520 |    5286.447 |      98.517 |
+| 11.486 - 10.601        |             182 |    4387.457 |    3255.941 |    5061.762 |     115.369 |
+
+
+--------------------------------------------------
+**************** Dataset Number 27 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of molecules: '2' by (x, y, z) = (0.04, 0.01, 0.03) -
+a total of 0.05 Angstroms from their original positions.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 60365.358   
+Sum of all reflection squared amplitudes          : 5182894.139 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5404.478    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    8063.698 |    3071.213 |   40120.184 |     497.541 |
+| 20.820 - 15.277        |             162 |    5512.877 |    3486.002 |    6773.095 |     122.860 |
+| 15.277 - 13.360        |             132 |    4899.466 |    3263.411 |    4385.052 |      89.501 |
+| 13.360 - 12.317        |             126 |    5792.816 |    4561.944 |    4696.994 |      81.083 |
+| 12.317 - 11.486        |             120 |    4457.455 |    3464.331 |    4442.296 |      99.660 |
+| 11.486 - 10.601        |             182 |    4683.740 |    3018.086 |    4862.382 |     103.814 |
+
+
+--------------------------------------------------
+**************** Dataset Number 28 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '1,3' by 0.2 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 61294.654   
+Sum of all reflection squared amplitudes          : 5367622.885 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 5597.104    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7799.607 |    3001.199 |   40052.020 |     513.513 |
+| 20.820 - 15.277        |             162 |    6301.341 |    4201.037 |    6573.462 |     104.318 |
+| 15.277 - 13.360        |             132 |    5670.299 |    3913.237 |    5370.027 |      94.704 |
+| 13.360 - 12.317        |             126 |    6149.733 |    4891.270 |    5094.690 |      82.844 |
+| 12.317 - 11.486        |             120 |    5526.611 |    3795.296 |    5048.204 |      91.344 |
+| 11.486 - 10.601        |             182 |    3654.206 |    2366.790 |    3692.191 |     101.039 |
+
+
+--------------------------------------------------
+**************** Dataset Number 29 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '1,2' by 0.2 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 60791.145   
+Sum of all reflection squared amplitudes          : 5367811.014 
+Sum of all reflection phases (mod 360)            : 0.000       
+Average of all reflection squared amplitudes      : 5597.300    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    7696.744 |    2810.448 |   40086.337 |     520.822 |
+| 20.820 - 15.277        |             162 |    5009.023 |    3235.086 |    5797.113 |     115.733 |
+| 15.277 - 13.360        |             132 |    5663.986 |    3812.258 |    5508.039 |      97.247 |
+| 13.360 - 12.317        |             126 |    5340.552 |    4033.344 |    6014.068 |     112.611 |
+| 12.317 - 11.486        |             120 |    4244.646 |    2875.025 |    4656.544 |     109.704 |
+| 11.486 - 10.601        |             182 |    5635.076 |    4266.153 |    5852.530 |     103.859 |
+
+
+--------------------------------------------------
+**************** Dataset Number 30 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - rotation of molecules: '2,3' by 0.1 degrees about line passing through the centroid of each molecule and (0.0,0.0,0.0).
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 63164.456   
+Sum of all reflection squared amplitudes          : 5724562.882 
+Sum of all reflection phases (mod 360)            : 0.000       
+Average of all reflection squared amplitudes      : 5969.304    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    8104.540 |    3091.647 |   40158.210 |     495.503 |
+| 20.820 - 15.277        |             162 |    5280.035 |    3814.235 |    5123.253 |      97.031 |
+| 15.277 - 13.360        |             132 |    5199.468 |    4537.379 |    4179.660 |      80.386 |
+| 13.360 - 12.317        |             126 |    6626.648 |    4095.380 |    6791.566 |     102.489 |
+| 12.317 - 11.486        |             120 |    7245.640 |    5053.519 |    8387.138 |     115.754 |
+| 11.486 - 10.601        |             182 |    4987.162 |    3254.392 |    5595.675 |     112.202 |
+
+
+--------------------------------------------------
+**************** Dataset Number 31 ****************
+--------------------------------------------------
+
+********** Information about the transformation **********
+
+Transformation - translation of atom: 'C' (atom number 3) by (x, y, z) = (0.03, 0.02, 0.03) -
+a total of 0.05 Angstroms from original position (x, y, z) = (-14.55, -45.44, -30.39) in molecule numbers 2,1 and 3.
+
+********** Overall analysis of dataset **********
+
+Sum of all reflection amplitudes                  : 63657.165   
+Sum of all reflection squared amplitudes          : 5764067.598 
+Sum of all reflection phases (mod 360)            : 360.000     
+Average of all reflection squared amplitudes      : 6010.498    
+
+********** Analysis of dataset by resolution bin **********
+
+Total number of resolution bins: 6
+
+| Resolution Range (Ang) |Number of Refs   |  Mean Amp^2 |Median Amp^2 |Std Dev      |Std/Mean (%) |
+|------------------------|-----------------|-------------|-------------|-------------|-------------|
+|    Inf - 20.820        |             135 |    8078.858 |    3204.096 |   40156.399 |     497.055 |
+| 20.820 - 15.277        |             162 |    5297.604 |    3750.849 |    5040.263 |      95.142 |
+| 15.277 - 13.360        |             132 |    5292.278 |    4783.401 |    4099.654 |      77.465 |
+| 13.360 - 12.317        |             126 |    6334.799 |    3776.405 |    6394.057 |     100.935 |
+| 12.317 - 11.486        |             120 |    7493.204 |    4944.599 |    8654.749 |     115.501 |
+| 11.486 - 10.601        |             182 |    5060.455 |    3420.985 |    5521.153 |     109.104 |
+
+
+--------------------------------------------------
+**************** Correlation Summary ****************
+--------------------------------------------------
+
+The correlation between the differences in the squared structure factor amplitudes
+and the differences in the resolutions of the corresponding reflections is: -0.021
+
+The correlation between the differences in the squared structure factor amplitudes
+and the differences in (Euclidean) distances between the two corresponding reflections is: -0.005
+
