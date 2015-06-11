@@ -12,10 +12,10 @@ using Color
 # User defined params
 pdbFileNames = ["test.pdb"]
 λ = 1.0
-resLim = 12.0
+resLim = 10.0
 #minRefinResBin = 100
-numberOfResBins = 10
-numOfTrans = 80
+numberOfResBins = 8
+numOfTrans = 30
 transformType = "move"
 progressiveTrans = true
 numOfBoxPlots = 3
@@ -25,7 +25,7 @@ refsToCompare = Array[[0,2,0],[2,2,2]]
 minNumPlotPoints = 10000
 boxPlots = int(round(linspace(1,numOfTrans,numOfBoxPlots)))
 refPlots = int(round(linspace(1,numOfTrans,numOfRefPlots)))
-plotCorrelationBins = true
+plotCorrelationBins = false
 
 pdbFileName = pdbFileNames[1]
 pdbCode = createDirectory(pdbFileName)
