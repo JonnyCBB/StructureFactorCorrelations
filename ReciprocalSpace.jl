@@ -227,7 +227,8 @@ function getAllReflections(resolutionLimit::Float64, spacegroup::Spacegroup, uni
     return reflectionList
 end
 
-function calcScatFactors(reflectionList::Dict{Vector{Int64},Reflection}, moleculeArray::MoleculeUnitCell, xrayWavelength::Float64)
+function calcScatFactors(reflectionList::Dict{Vector{Int64},Reflection}, moleculeArray::MoleculeUnitCell, xrayWavelength::Float64,
+                         unitcell::Unitcell)
     newReflectionList = deepcopy(reflectionList)
     atomicf0::Float64 = 0.0
     atomicPhase::Float64 = 0.0
@@ -249,7 +250,7 @@ function calcScatFactors(reflectionList::Dict{Vector{Int64},Reflection}, molecul
         for molecule in moleculeArray.moleculeSequence
             for atom in molecule.atomSequence
                 atomicf0 = atom.element.f0[reflection.scatteringAngle]
-                atomicPhase = 2π*dot(reflection.hkl, [atom.x, atom.y, atom.z])
+                atomicPhase = 2π*dot(reflection.hkl, [atom.x/unitcell.a, atom.y/unitcell.b, atom.z/unitcell.c])
                 reflection.atomScatFactors[counter,1] = atomicf0
                 reflection.atomScatFactors[counter,2] = mod(rad2deg(atomicPhase), 360)
                 fᵢ = atomicf0 * exp(im * atomicPhase)

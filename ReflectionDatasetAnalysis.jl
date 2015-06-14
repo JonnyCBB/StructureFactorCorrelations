@@ -37,7 +37,7 @@ function performMoleculeTrans(pdbCode::SubString{ASCIIString}, waveLength::Float
     intValsforRefComparison = Array(Float64, numOfTrans, 2)
 
     datasetNum = 1
-    hklOrig = calcScatFactors(hklList,unitcellMols,waveLength)
+    hklOrig = calcScatFactors(hklList,unitcellMols,waveLength, unitcell)
     extractDatasetInfo!(resbins, hklOrig, pdbCode, datasetNum)
     resBinBoxPlot(pdbCode, datasetNum, resbins, hklOrig)
     if numOfRefPlots ≥ 1
@@ -53,7 +53,7 @@ function performMoleculeTrans(pdbCode::SubString{ASCIIString}, waveLength::Float
         molsToTransform, serialNum, addAtomPosition, atomToAdd, transAtom, transMolecule, rotationAngle = generateRandomTransformParams(unitcellMols, unitcell)
         newAllMols, transformInfo = chooseTransform(transformType, unitcellMols, molsToTransform, serialNum, addAtomPosition, atomToAdd, transAtom, transMolecule,
                                                     rotationAngle, elementDict)
-        hklChanged = calcScatFactors(hklList,newAllMols,waveLength)
+        hklChanged = calcScatFactors(hklList,newAllMols,waveLength,unitcell)
         extractDatasetInfo!(resbins, hklChanged, pdbCode, datasetNum, transformInfo)
         addIntensityDiffColumn!(intDiffMat, hklPrev, hklChanged, i)
         if progressiveTrans
