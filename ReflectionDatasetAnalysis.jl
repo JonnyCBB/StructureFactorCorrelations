@@ -147,7 +147,7 @@ function generateRandomTransformParams(allMoleculesInUnitCell::MoleculeUnitCell,
     transAtom = 0.1*vec(sqrt(meanDisplacement^2 * threeRandNums/sum(threeRandNums)))
 
     #transMolecule = [0.005, 0, 0]
-    transMolecule = transAtom
+    transMolecule = 0.1*transAtom
 
     return molsToTransform, serialNum, addAtomPosition, atomToAdd, transAtom, transMolecule, rotationAngle
 end
