@@ -12,16 +12,16 @@ using Color
 # User defined params
 pdbFileNames = ["test.pdb"]
 λ = 1.0
-resLim = 10.0
+resLim = 5.0
 #minRefinResBin = 100
-numberOfResBins = 12
-numOfTrans = 30
+numberOfResBins = 14
+numOfTrans = 20
 transformType = "move"
 progressiveTrans = true
 numOfBoxPlots = 3
-numOfRefPlots = 0
-refToPlot = Array[[0,2,0]]
-refsToCompare = Array[[0,2,0],[2,2,2]]
+numOfRefPlots = 3
+refToPlot = Array[[8,6,4]]
+refsToCompare = Array[[8,6,4],[6,6,8]]
 minNumPlotPoints = 2000
 boxPlots = int(round(linspace(1,numOfTrans,numOfBoxPlots)))
 refPlots = int(round(linspace(1,numOfTrans,numOfRefPlots)))
