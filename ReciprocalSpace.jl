@@ -254,7 +254,7 @@ function calcScatFactors(reflectionList::Dict{Vector{Int64},Reflection}, molecul
                 reflection.atomScatFactors[counter,1] = atomicf0
                 reflection.atomScatFactors[counter,2] = mod(rad2deg(atomicPhase), 360)
                 fᵢ = atomicf0 * exp(im * atomicPhase)
-                tempFactor = exp(-atom.bfactor * sin(deg2rad(reflection.scatteringAngle) / xrayWavelength)^2)
+                tempFactor = exp(-atom.bfactor * (sin(deg2rad(reflection.scatteringAngle)) / xrayWavelength)^2)
                 f = atom.occupancy * fᵢ * tempFactor
                 structureFactor += f
                 counter += 1
